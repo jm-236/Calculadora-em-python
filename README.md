@@ -20,7 +20,7 @@ Este projeto é uma calculadora simples desenvolvida em Python utilizando a bibl
 
 1. Clone este repositório:
     ```sh
-    git clone https://github.com/seu-usuario/calculadora-python.git
+    git clone https://github.com/jm-236/calculadora-python.git
     ```
 2. Navegue até o diretório do projeto:
     ```sh
